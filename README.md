@@ -12,6 +12,5 @@ classmates can also merge their forked branch into this master branch.
 So think about a solution on your end.
 
 Gerko
->>>>>>> upstream/master
 
 -----
